@@ -1,0 +1,178 @@
+
+#EXTM3U
+#EXTINF:-1,BR: A &amp; E
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37681
+#EXTINF:-1,BR: AXN
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37679
+#EXTINF:-1,BR: BABY TV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37678
+#EXTINF:-1,BR: BAND
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37677
+#EXTINF:-1,BR: BIS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37676
+#EXTINF:-1,BR: BOOMERANG
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37675
+#EXTINF:-1,BR: COMBATE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37672
+#EXTINF:-1,BR: COMEDY CENTRAL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37671
+#EXTINF:-1,BR: DISCOVERY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37670
+#EXTINF:-1,BR: DISCOVERY HOME E HEALTH
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37668
+#EXTINF:-1,BR: DISCOVERY KIDS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37667
+#EXTINF:-1,BR: DISCOVERY THEATER
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37666
+#EXTINF:-1,BR: DISCOVERY TURBO
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37665
+#EXTINF:-1,BR: DISCOVERY WORLD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37664
+#EXTINF:-1,BR: DISNEY CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37663
+#EXTINF:-1,BR: DISNEY JUNIOR
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37662
+#EXTINF:-1,BR: DISNEY XD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37661
+#EXTINF:-1,BR: E
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37660
+#EXTINF:-1,BR: ESPN
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37659
+#EXTINF:-1,BR: ESPN 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37658
+#EXTINF:-1,BR: ESPN BRASIL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37657
+#EXTINF:-1,BR: FISH TV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37656
+#EXTINF:-1,BR: FOOD NETWORK
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37655
+#EXTINF:-1,BR: FOX
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37654
+#EXTINF:-1,BR: FOX LIFE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37653
+#EXTINF:-1,BR: FOX PREMIUM 1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37652
+#EXTINF:-1,BR: FOX PREMIUM 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37651
+#EXTINF:-1,BR: FOX SPORT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37650
+#EXTINF:-1,BR: FOX SPORT 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37649
+#EXTINF:-1,BR: FX
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37648
+#EXTINF:-1,BR: GLOBO INTERNACIONAL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37647
+#EXTINF:-1,BR: GLOBO NEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37646
+#EXTINF:-1,BR: GLOBO RJ
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37645
+#EXTINF:-1,BR: GLOBO SP
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37644
+#EXTINF:-1,BR: GLOBO MINAS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37643
+#EXTINF:-1,BR: GLOOB
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37641
+#EXTINF:-1,BR: GNT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37640
+#EXTINF:-1,BR: HBO
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37639
+#EXTINF:-1,BR: HBO 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37638
+#EXTINF:-1,BR: HBO FAMILY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37637
+#EXTINF:-1,BR: HBO SIGNATURE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37636
+#EXTINF:-1,BR: HBO PLUS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37635
+#EXTINF:-1,BR: HISTORY 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37634
+#EXTINF:-1,BR: HISTORY CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37633
+#EXTINF:-1,BR: ID INVESTIGATION
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37632
+#EXTINF:-1,BR: LIFETIME
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37631
+#EXTINF:-1,BR: HBO XTREME
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37630
+#EXTINF:-1,BR: HBO POP
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37628
+#EXTINF:-1,BR: MEGAPIX
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37627
+#EXTINF:-1,BR: MTV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37626
+#EXTINF:-1,BR: MULTISHOW
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37625
+#EXTINF:-1,BR: NATGEO WILD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37623
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37622
+#EXTINF:-1,BR: NICK JUNIOR
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37621
+#EXTINF:-1,BR: NICKELODEON
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37620
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37619
+#EXTINF:-1,BR: PREMIERE CLUBS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37603
+#EXTINF:-1,BR: PREMIERE 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37618
+#EXTINF:-1,BR: PREMIERE 3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37617
+#EXTINF:-1,BR: PREMIERE 4
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37616
+#EXTINF:-1,BR: PREMIERE 5
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37615
+#EXTINF:-1,BR: PREMIERE 6
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37614
+#EXTINF:-1,BR: RECORD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37602
+#EXTINF:-1,BR: RECORD NEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37601
+#EXTINF:-1,BR: REDE TV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37600
+#EXTINF:-1,BR: SBT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37599
+#EXTINF:-1,BR: Sony tv
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37598
+#EXTINF:-1,BR: SPACE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37597
+#EXTINF:-1,BR: SPORTV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37596
+#EXTINF:-1,BR: SPORTV 2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37595
+#EXTINF:-1,BR: SPORTV 3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37594
+#EXTINF:-1,BR: STUDIO UNIVERSAL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37593
+#EXTINF:-1,BR: SYFY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37592
+#EXTINF:-1,BR: TC ACTION
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37591
+#EXTINF:-1,BR: TC CULT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37590
+#EXTINF:-1,BR: TC FUN
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37589
+#EXTINF:-1,BR: TC PIPOCA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37588
+#EXTINF:-1,BR: TC PREMIUM
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37587
+#EXTINF:-1,BR: TC TOUCH
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37586
+#EXTINF:-1,BR: TNT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37584
+#EXTINF:-1,BR: TNT SERIES
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37583
+#EXTINF:-1,BR: TOONCAST
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37582
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37581
+#EXTINF:-1,BR: VIVA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37580
+#EXTINF:-1,BR: WARNER CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37579
+#EXTINF:-1,BR: WOOHOO
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37578
+#EXTINF:-1,BR: BAND NEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37577
+#EXTINF:-1,BR: OFF
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/37575
